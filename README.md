@@ -4,6 +4,11 @@ Rank 2 Public LB Solution
 <img src="Utils/PS.png"
      alt="Markdown Monster icon"
      style="float: left; margin-right: 10px;" />
+## Data at a Glance
+<img src="Utils/Data.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" /> 
+    
 ## Dependencies
 * Python >3.6
 * pandas
