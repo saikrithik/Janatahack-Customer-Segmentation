@@ -39,4 +39,4 @@ catboost:         $ pip install catboost
 * Run the code given in ipython notebook `Final.ipynb`
 
 ## Contributors
-[Sai Krithik](https://github.com/saikrithik) & [Karan Juneja](github.com/karan171)
+[Sai Krithik](https://github.com/saikrithik) & [Karan Juneja](https://github.com/karan171)
