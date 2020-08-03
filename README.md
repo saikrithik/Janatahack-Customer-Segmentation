@@ -39,4 +39,7 @@ catboost:         $ pip install catboost
 * Run the code given in ipython notebook `Final.ipynb`
 
 ## Contributors
+Team Name: [Figured the Trick!](https://datahack.analyticsvidhya.com/teams/figured-the-trick) \
 [Sai Krithik](https://github.com/saikrithik) & [Karan Juneja](https://github.com/karan171)
+
+[Link to Leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard)
