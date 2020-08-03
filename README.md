@@ -40,6 +40,6 @@ catboost:         $ pip install catboost
 
 ## Contributors
 Team Name: [Figured the Trick!](https://datahack.analyticsvidhya.com/teams/figured-the-trick) \
-[Sai Krithik](https://github.com/saikrithik) & [Karan Juneja](https://github.com/karan171)
+[Sai Krithik](https://www.linkedin.com/in/venkata-sai-krithik-6a344a199/) & [Karan Juneja](https://www.linkedin.com/in/karan-juneja32/)
 
 [Link to Leaderboard](https://datahack.analyticsvidhya.com/contest/janatahack-customer-segmentation/#LeaderBoard)
